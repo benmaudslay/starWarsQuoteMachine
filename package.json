@@ -1,4 +1,5 @@
 {
+  "homepage": "https://benmaudslay.github.io/starWarsQuoteMachine",
   "name": "starwars-demo",
   "version": "0.1.0",
   "private": true,
