@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/starWarsQuoteMachine/static/css/main.90aad799.chunk.css",
-    "main.js": "/starWarsQuoteMachine/static/js/main.3a1d8e68.chunk.js",
-    "main.js.map": "/starWarsQuoteMachine/static/js/main.3a1d8e68.chunk.js.map",
-    "runtime-main.js": "/starWarsQuoteMachine/static/js/runtime-main.2327d564.js",
-    "runtime-main.js.map": "/starWarsQuoteMachine/static/js/runtime-main.2327d564.js.map",
-    "static/js/2.cd5343b3.chunk.js": "/starWarsQuoteMachine/static/js/2.cd5343b3.chunk.js",
-    "static/js/2.cd5343b3.chunk.js.map": "/starWarsQuoteMachine/static/js/2.cd5343b3.chunk.js.map",
+    "main.css": "/starWarsQuoteMachine/static/css/main.372c6c9e.chunk.css",
+    "main.js": "/starWarsQuoteMachine/static/js/main.0767a8dc.chunk.js",
+    "main.js.map": "/starWarsQuoteMachine/static/js/main.0767a8dc.chunk.js.map",
+    "runtime-main.js": "/starWarsQuoteMachine/static/js/runtime-main.c949afe3.js",
+    "runtime-main.js.map": "/starWarsQuoteMachine/static/js/runtime-main.c949afe3.js.map",
+    "static/js/2.a9a9b64e.chunk.js": "/starWarsQuoteMachine/static/js/2.a9a9b64e.chunk.js",
+    "static/js/2.a9a9b64e.chunk.js.map": "/starWarsQuoteMachine/static/js/2.a9a9b64e.chunk.js.map",
     "index.html": "/starWarsQuoteMachine/index.html",
-    "precache-manifest.b5cf61382582c4bb6f7726d3f1fe0ef1.js": "/starWarsQuoteMachine/precache-manifest.b5cf61382582c4bb6f7726d3f1fe0ef1.js",
+    "precache-manifest.232c3ef6f63a77fcacfd820e59178f6f.js": "/starWarsQuoteMachine/precache-manifest.232c3ef6f63a77fcacfd820e59178f6f.js",
     "service-worker.js": "/starWarsQuoteMachine/service-worker.js",
-    "static/css/main.90aad799.chunk.css.map": "/starWarsQuoteMachine/static/css/main.90aad799.chunk.css.map",
-    "static/js/2.cd5343b3.chunk.js.LICENSE.txt": "/starWarsQuoteMachine/static/js/2.cd5343b3.chunk.js.LICENSE.txt",
+    "static/css/main.372c6c9e.chunk.css.map": "/starWarsQuoteMachine/static/css/main.372c6c9e.chunk.css.map",
+    "static/js/2.a9a9b64e.chunk.js.LICENSE.txt": "/starWarsQuoteMachine/static/js/2.a9a9b64e.chunk.js.LICENSE.txt",
     "static/media/App.css": "/starWarsQuoteMachine/static/media/Starjhol.9c91297e.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.2327d564.js",
-    "static/js/2.cd5343b3.chunk.js",
-    "static/css/main.90aad799.chunk.css",
-    "static/js/main.3a1d8e68.chunk.js"
+    "static/js/runtime-main.c949afe3.js",
+    "static/js/2.a9a9b64e.chunk.js",
+    "static/css/main.372c6c9e.chunk.css",
+    "static/js/main.0767a8dc.chunk.js"
   ]
 }
