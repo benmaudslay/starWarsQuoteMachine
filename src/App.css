@@ -8,16 +8,6 @@
   src: url("./fonts/Starjhol.ttf");
 }
 
-.App {
-  font-family: starwarsMain;
-  letter-spacing: 1.5px;
-
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  text-align: center;
-}
-
 hr {
   width: 100%;
 }
@@ -26,20 +16,12 @@ h3 {
   font-family: starwarsAlt;
 }
 
-button {
-  font-family: starwarsAlt;
-  background-color: black;
-  border-radius: 10px;
-  color: white;
-  font-size: 32px;
-  padding: 0 25px 5px 25px;
-}
-
 button:hover {
   cursor: pointer;
   background-color: rgba(0, 0, 0, 0.9);
-  box-shadow: 0px 4px 8px 0px rgba(0, 0, 0, 0.75);
+  box-shadow: 0px 4px 8px 0px #808080bf;
   transition-duration: 300ms;
+  color: #fff;
 }
 
 button:active {
